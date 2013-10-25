@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9B96506A181B02CB0036B122"
+               BlueprintIdentifier = "9B9650B1181B084C0036B122"
                BuildableName = "Dockt.app"
                BlueprintName = "Dockt"
                ReferencedContainer = "container:Dockt.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9B965091181B02CB0036B122"
+               BlueprintIdentifier = "9B9650CC181B084C0036B122"
                BuildableName = "DocktTests.xctest"
                BlueprintName = "DocktTests"
                ReferencedContainer = "container:Dockt.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9B96506A181B02CB0036B122"
+            BlueprintIdentifier = "9B9650B1181B084C0036B122"
             BuildableName = "Dockt.app"
             BlueprintName = "Dockt"
             ReferencedContainer = "container:Dockt.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9B96506A181B02CB0036B122"
+            BlueprintIdentifier = "9B9650B1181B084C0036B122"
             BuildableName = "Dockt.app"
             BlueprintName = "Dockt"
             ReferencedContainer = "container:Dockt.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9B96506A181B02CB0036B122"
+            BlueprintIdentifier = "9B9650B1181B084C0036B122"
             BuildableName = "Dockt.app"
             BlueprintName = "Dockt"
             ReferencedContainer = "container:Dockt.xcodeproj">
